@@ -1,4 +1,11 @@
-# BayesianMachineLearning
-## I'm just testing
-### Can we use something like hahahahaha
-$\frac{\alpha_k}{\sum_i \Gamma(a)}$
+BayesianMachineLearning
+=======================
+
+I'm just testing
+----------------
+
+```
+function test() {
+  console.log("notice the blank line before this function?");
+}
+```
