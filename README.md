@@ -2,12 +2,4 @@
 
 
 ## naive_Bayes_classifier.ipynb
-
-```
-println scallaaaaaaaaaaa
-```
-```
-function test() {
-  console.log("notice the blank line before this function?");
-}
-```
+Implementation of naive Bayes classifier with Bernoulli distribution for class label, and Student's t-distribution for class specific predictive distribution (derived from i.i.d. normal likelihood with normal-gamma priors)
